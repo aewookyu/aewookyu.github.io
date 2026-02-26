@@ -25,7 +25,10 @@ layout: default
   {% endif %}
 
   {% if chapter_url == current_url %}
-    {% assign next_chapter = forloop.index0 | plus: 1 %}
+    {% assign next_index = forloop.index0 | plus: 1 %}
+    {% if next_index < chapters.size %}
+      {% assign next_chapter = chapters[next_index] %}
+    {% endif %}
     {% break %}
   {% else %}
     {% assign prev_chapter = c %}
@@ -40,6 +43,6 @@ layout: default
   | <a href="{{ '/novel-one/' | relative_url }}">Table of Contents</a> |
 
   {% if next_chapter %}
-    <a href="{{ chapters[next_chapter].url | relative_url }}">Next →</a>
+    <a href="{{ next_chapter.url | relative_url }}">Next →</a>
   {% endif %}
 </div>
