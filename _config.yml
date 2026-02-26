@@ -7,7 +7,7 @@ sass:
 collections:
   novel-one:
     output: true
-    permalink: /novel-one/:name/
+    permalink: /novel-one/:path/
   novel-two:
     output: true
-    permalink: /novel-two/:name/
+    permalink: /novel-two/:path/
