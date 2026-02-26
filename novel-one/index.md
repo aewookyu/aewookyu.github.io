@@ -25,23 +25,13 @@ Disclaimer: Synopsis are from Novel Updates
 
 ## Table of Contents
 
-- [Chapter 1: Second Marriage](./chapter-1)
-- [Chapter 2](./chapter-2)
-- [Chapter 3](./chapter-3)
-- [Chapter 4](./chapter-4)
-- [Chapter 5](./chapter-5)
-- [Chapter 6](./chapter-6)
-- [Chapter 7](./chapter-7)
-- [Chapter 8](./chapter-8)
-- [Chapter 9](./chapter-9)
-- [Chapter 10](./chapter-10)
-- [Chapter 11](./chapter-11)
-- [Chapter 12](./chapter-12)
-- [Chapter 13](./chapter-13)
-- [Chapter 14](./chapter-14)
-- [Chapter 15](./chapter-15)
-- [Chapter 16](./chapter-16)
-- [Chapter 17](./chapter-17)
-- [Chapter 18](./chapter-18)
-- [Chapter 19](./chapter-19)
-- [Chapter 20](./chapter-20)
+<ul>
+{% assign chapters = site.novel_one | sort: "path" %}
+{% for chapter in chapters %}
+  <li>
+    <a href="{{ chapter.url | relative_url }}">
+      {{ chapter.title }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
