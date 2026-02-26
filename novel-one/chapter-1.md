@@ -4,8 +4,6 @@ title: "Chapter 1: Second Marriage"
 permalink: /novel-one/chapter-1/
 ---
 
-## Chapter 1: Second Marriage
-
 This is a paragraph.
 
 This is another paragraph.
