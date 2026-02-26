@@ -10,7 +10,7 @@ The musical instruments played by the entertainers were mixed with the hearty lo
 
 Anyone who sees can tell that the owner is ready to break camp (leave the camp) at any time. It was only due to the wedding that the bed has new colorful sheets, a silk carpet is spread on the floor, and the item for _hejin_<sup class="footnote-ref" data-footnote="合卺 (Héjǐn) - to exchange the nuptial cup / go through the marriage ceremony"></sup> is arranged on top of the table. Although this was as simple as possible, it still shows the sincerity put into this wedding.
 
-“After hearing the good news, ***Zhugong*<sup class="footnote-ref" data-footnote="主公(Zhǔgōng) - the Lord. It is a formal and deeply respectful way for a subordinate to address the leader they have sworn loyalty to."></sup>'s numerous subordinates have all shown up to congratulate. **Jiangjun**<sup class="footnote-ref" data-footnote="将军(Jiāngjūn) - general; a formal military title used to address a high-ranking commander or officer."></sup> is unable to leave.” An old woman  with a round face came over and helped me stabilize the pearl hairpin on my temples, and kindly said, “**Furen**<sup class="footnote-ref" data-footnote="夫人(Fūrén) - simply means (married) lady or madam. Usually a respectful title used for the wife of a high-ranking official, nobleman, or leader."></sup> must not be impatient.”
+“After hearing the good news, **Zhugong**<sup class="footnote-ref" data-footnote="主公(Zhǔgōng) - the Lord. It is a formal and deeply respectful way for a subordinate to address the leader they have sworn loyalty to."></sup>'s numerous subordinates have all shown up to congratulate. **Jiangjun**<sup class="footnote-ref" data-footnote="将军(Jiāngjūn) - general; a formal military title used to address a high-ranking commander or officer."></sup> is unable to leave.” An old woman  with a round face came over and helped me stabilize the pearl hairpin on my temples, and kindly said, “**Furen**<sup class="footnote-ref" data-footnote="夫人(Fūrén) - simply means (married) lady or madam. Usually a respectful title used for the wife of a high-ranking official, nobleman, or leader."></sup> must not be impatient.”
 
 I half-folded the white silk fan in my hand and silently bowed my head. 
 
@@ -36,7 +36,7 @@ I was married over to Laiyang when I was fifteen, and now I have reached twenty.
 
 That husband, Wei Tan, whom I had never met before and had never heard of him either. 
 
-
+There was nothing one could do about this matter. When I was in Chang'an, Wei Tan’s father, Wei Jue was serving as the Commander of Northern Luoyang. While his paternal grandfather once was the Supreme Commander even though he has now retired to the countryside. In Chang'an where there were numerous numbers of official _as many as the hair of the cow_, a son of a Commander of Northern Luoyang would be as insignificant as a lice in the cow’s hair no matter how high and noble his family was. 
 
 
 ---
