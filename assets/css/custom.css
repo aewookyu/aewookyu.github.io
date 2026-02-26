@@ -79,3 +79,20 @@ a {
   color: var(--text-color);
   border-left: 4px solid var(--link-color);
 }
+
+.site-header {
+  text-align: center;
+  padding: 25px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.site-title {
+  margin: 0;
+}
+
+.site-title a {
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: bold;
+  color: inherit;
+}
