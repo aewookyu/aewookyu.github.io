@@ -12,7 +12,7 @@ layout: default
 {% assign current_index = nil %}
 
 {% for c in chapters %}
-  {% if c.path == page.path %}
+  {% if c.url == page.url or c.url == page.url | append: "/" %}
     {% assign current_index = forloop.index0 %}
   {% endif %}
 {% endfor %}
