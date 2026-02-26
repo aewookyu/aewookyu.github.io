@@ -8,3 +8,23 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto', sans-serif;
 }
+
+.footnote-popup {
+  display: none;
+  position: absolute;
+  max-width: 300px;
+  padding: 10px;
+  background: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  font-size: 0.85em;
+  z-index: 999;
+}
+
+.footnote-ref {
+  cursor: pointer;
+  text-decoration: underline dotted;
+  color: #007acc;
+  position: relative;
+}
