@@ -26,7 +26,7 @@ Disclaimer: Synopsis are from Novel Updates
 ## Table of Contents
 
 <ul>
-{% assign chapters = site.novel_one | sort: "path" %}
+{% assign chapters = site.novel-one | sort: "path" %}
 {% for chapter in chapters %}
   <li>
     <a href="{{ chapter.url | relative_url }}">
