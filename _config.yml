@@ -7,7 +7,9 @@ sass:
 collections:
   novel-one:
     output: true
+    sort_by: order
     permalink: /novel-one/:path/
   novel-two:
     output: true
+    sort_by: order
     permalink: /novel-two/:path/
