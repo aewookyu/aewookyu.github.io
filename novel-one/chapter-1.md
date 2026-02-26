@@ -133,10 +133,23 @@ Wei Tan was still pressed onto my body, but his face was tilted to the side, his
 This person was already sleeping, soundly.
 
 ---
-<p align="center">
-  {% if page.previous %}<a href="{{ page.previous }}">← Previous</a>{% endif %}
-  |
-  <a href="/novel-one/">Table of Contents</a>
-  |
-  {% if page.next %}<a href="{{ page.next }}">Next →</a>{% endif %}
-</p>
+<hr>
+
+<nav>
+  {% assign chapters = site.novel_one | sort: "path" %}
+  {% for c in chapters %}
+    {% if c.url == page.url %}
+      {% assign index = forloop.index0 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if index > 0 %}
+    <a href="{{ chapters[index-1].url | relative_url }}">← Previous</a>
+  {% endif %}
+
+  | <a href="/novel-one/">Table of Contents</a> |
+
+  {% if index < chapters.size | minus: 1 %}
+    <a href="{{ chapters[index+1].url | relative_url }}">Next →</a>
+  {% endif %}
+</nav>
