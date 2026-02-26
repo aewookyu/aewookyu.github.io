@@ -10,18 +10,23 @@ layout: default
 
 {% assign chapters = site.novel-one | sort: "order" %}
 
+{%- assign current_url = page.url -%}
+{% if current_url != "/" and current_url != "" %}
+  {% assign current_url = current_url | append: "/" %}
+{% endif %}
+
 {% assign prev_chapter = nil %}
 {% assign next_chapter = nil %}
-{% assign found = false %}
 
 {% for c in chapters %}
-  {% if found %}
-    {% assign next_chapter = c %}
-    {% break %}
+  {% assign chapter_url = c.url %}
+  {% if chapter_url != "/" and chapter_url != "" %}
+    {% assign chapter_url = chapter_url | append: "/" %}
   {% endif %}
 
-  {% if c.url == page.url %}
-    {% assign found = true %}
+  {% if chapter_url == current_url %}
+    {% assign next_chapter = forloop.index0 | plus: 1 %}
+    {% break %}
   {% else %}
     {% assign prev_chapter = c %}
   {% endif %}
@@ -35,6 +40,6 @@ layout: default
   | <a href="{{ '/novel-one/' | relative_url }}">Table of Contents</a> |
 
   {% if next_chapter %}
-    <a href="{{ next_chapter.url | relative_url }}">Next →</a>
+    <a href="{{ chapters[next_chapter].url | relative_url }}">Next →</a>
   {% endif %}
 </div>
