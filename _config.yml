@@ -4,3 +4,5 @@ theme: minima
 markdown: kramdown
 sass:
   style: compressed
+header_pages:
+  - index.md
