@@ -38,6 +38,99 @@ That husband, Wei Tan, whom I had never met before and had never heard of him ei
 
 There was nothing one could do about this matter. When I was in Chang'an, Wei Tan’s father, Wei Jue was serving as the Commander of Northern Luoyang. While his paternal grandfather once was the Supreme Commander even though he has now retired to the countryside. In Chang'an where there were numerous numbers of official _as many as the hair of the cow_, a son of a Commander of Northern Luoyang would be as insignificant as a lice in the cow’s hair no matter how high and noble his family was. 
 
+<div class="author-note">
+**Author's Note:** 多如牛毛(Duōrúniúmáo) - (idiom) countless; innumerable
+</div>
+
+Unfortunately, there are times where lice turned into a big worm, and now, I would be marrying that big worm. 
+
+“**Furen** is so beautiful.” A servant helped with the hairpins on my head and softly said, “More beautiful than before.”
+
+“You have seen me before?” I asked.
+
+She smiled shyly and said, “Have seen before, I am from Chang'an.” Her accent carried the unique Chang'an accent, which felt very familiar. 
+
+I nodded, without saying a word. 
+
+Zhang **Shi**<sup class="footnote-ref" data-footnote="氏(Shì)- to address a married woman with their maiden family name."></sup> was leading a few maids to move things around, when the noise outside suddenly became louder and a cool breeze entered, flickered the candlelight. 
+
+The tent’s curtain was lifted, and I saw a figure standing in front of the door. Shadows intertwined amidst the cool night breeze, as if wanting to seize the candlelight away from the room. 
+
+“**Jiangjun** is here.” Zhang **Shi** smiled happily, and the servant beside me quickly straightened the fan in my hand,  to cover my face properly. 
+
+My vision was limited to the clean white fan in front of me that had a hummingbird fluttering among clouds at its back, thus one only saw golden light passing through. 
+
+I heard footsteps  approaching on the silk carpet, it was not loud, but I could feel it coming closer towards me. 
+
+The candlelight seemed to be blocked by something, and only shadows remained on the embroidered fan’s white screen. I smelled an unfamiliar scent, like the smell of alcohol and sweat mixed with grass, and in a flash, the hand in my hand was pressed down. 
+
+I looked up.
+
+With his back against the light, that was a very unfamiliar face. 
+
+Hmm… the lips were quite pretty, neither wide nor thick, just a little thin. The face shape was also not bad. The ears were plump, the fine outline of his nose signified his boldness of characters, looking like those refined and exquisite types that were the pride of Chang'an. However, one unfortunate thing was that his complexion was somewhat dark, his eyebrows were too straight and thick and his eyes were so black and deep, especially when looking at another person, there seemed to be a sharp gaze hidden underneath it…
+
+After looking for a short while, I quickly lowered my eyes. I was once taught by my wet nurse that women should always have a bashful and timid appearance when facing men. 
+
+It was so quiet that I could hear the soldiers outside laughing and guffawing, and I could feel a gaze from above swept through every inch of my face. 
+
+I didn’t know if he had drunk too much or if the red and white powder on my face had made me look like a monster, but he looked at me for a very long time, until I lowered my head and felt anxious in my heart. 
+
+I remembered it wasn’t like this when I was married previously. That husband was not good at drinking and when he was carried in, he had become like a puddle of mud, and the _hejin_ wine was only exchanged the next day. 
+
+“**Jiangjun**, it is time to _hejin_.” Fortunately, Zhang **Shi** spoke, and I heard the man in front of me respond with a hum.
+
+The voice was low, as if it was indifferent. 
+
+An attending servant came over to help me up. I kept my gaze forward and as I slowly walked over, the jade and pearl ornaments on my body jingled as they came in contact with each other. 
+
+We were led by the matchmaker to face each other. After the xishu, the matchmaker sang a congratulatory speech. The meat was divided into two and each drank the wine from their half of the gourd bottle. The bitter taste and the smell of alcohol filled my mouth, as I swallowed it hard without wrinkling my eyebrows. 
+
+“Firm together like _hejin_, joy and sorrow cannot be avoided.” The matchmaker said with a smile.
+
+Throughout the entire process, I maintained the grace that a noble woman in Chang'an should have, sitting impeccably with my eyes lowered. 
+
+Just like what my Second Brother once said previously, putting on an act was my innate nature.
+
+After everybody had withdrawn, I sat on the bed and was all alone with Wei Tan in the room. 
+
+The boisterous soldiers and onlookers outside had all been chased away, it was all silent now. The jewellery and clothes were removed and the make up on my face was washed off. I was wearing only a light and thin set of nightwear. I saw Wei Tan’s feet walking towards me and under the shadows, my chin was gently lifted by a hand.
+
+Under the weak candlelight, the beauty behind his face seemed to converge. Wei Tan looked at me and that pair of eyes was as deep as the night, like a beast quietly looking at the prey that it had just captured. 
+
+“Fu Jin.” He spoke with a low and slow voice. “The daughter of the Chancellor Fu Shi. One heard that when your father and older brothers were escorted to the execution ground, you wore mourning clothes and sang the mourning song all the way. The people viewed it as filial petty.”
+
+It was like he was reciting a book and the corner of his lips hooked up. “Have I remembered wrongly?”
+
+My eyes were fixed on his lips.
+
+“Not wrong.” I replied calmly with a smile.
+
+Where in fact, my heart was somewhat dampened and I even felt annoyed. Over the years, I had not experienced many joyous events and had the mind of being satisfied with everything to just get through things. I didn’t even bother about marrying a second time, so why did he bring this up?
+
+The hand on my chin was released, and Wei Tan sat down beside me. I heard him take a long breath before laying down on the bed.
+
+I couldn’t help but to turn my head and look back. Our eyes met and suddenly, he stretched his arms and I was pressed under him.
+
+“**Jiangjun**…” That body was firm and heavy. I felt uncomfortable being pressed down and wanted to push him off. 
+
+“Should call **Fujun**<sup class="footnote-ref" data-footnote="夫君(Fūjūn) - Husband"></sup>.” His arms were strong and his warm breath reeked of alcohol.
+
+Those dark eyes drew so close that I could almost see my face in them and without any warning, my heart started to thump.
+
+His face and body pressed me down heavily and I could not help but close my eyes tightly.
+
+My mind was as taut as a string. I had heard that it would be painful and that one would not be able to get out of bed the next day if it was severe….
+
+As I let my imagination run wild, I waited for a while only to realize that the surroundings had turned deathly still. 
+
+Huh?
+
+Stunned, I opened my eyes.
+
+Wei Tan was still pressed onto my body, but his face was tilted to the side, his even breath suffused with the smell of alcohol.
+
+This person was already sleeping, soundly.
 
 ---
 <p align="center">
