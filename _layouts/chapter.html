@@ -8,41 +8,16 @@ layout: default
 
 <hr>
 
-{% assign chapters = site.novel-one | sort: "order" %}
-
-{%- assign current_url = page.url -%}
-{% if current_url != "/" and current_url != "" %}
-  {% assign current_url = current_url | append: "/" %}
-{% endif %}
-
-{% assign prev_chapter = nil %}
-{% assign next_chapter = nil %}
-
-{% for c in chapters %}
-  {% assign chapter_url = c.url %}
-  {% if chapter_url != "/" and chapter_url != "" %}
-    {% assign chapter_url = chapter_url | append: "/" %}
-  {% endif %}
-
-  {% if chapter_url == current_url %}
-    {% assign next_index = forloop.index0 | plus: 1 %}
-    {% if next_index < chapters.size %}
-      {% assign next_chapter = chapters[next_index] %}
-    {% endif %}
-    {% break %}
-  {% else %}
-    {% assign prev_chapter = c %}
-  {% endif %}
-{% endfor %}
-
 <div class="chapter-nav" style="text-align:center; margin-top:2em; font-size:1.1em;">
-  {% if prev_chapter %}
-    <a href="{{ prev_chapter.url | relative_url }}">← Previous</a>
+
+  {% if page.previous %}
+    <a href="{{ page.previous.url | relative_url }}">← Previous</a>
   {% endif %}
 
   | <a href="{{ '/novel-one/' | relative_url }}">Table of Contents</a> |
 
-  {% if next_chapter %}
-    <a href="{{ next_chapter.url | relative_url }}">Next →</a>
+  {% if page.next %}
+    <a href="{{ page.next.url | relative_url }}">Next →</a>
   {% endif %}
+
 </div>
