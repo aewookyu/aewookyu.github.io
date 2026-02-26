@@ -42,3 +42,40 @@ h1, h2, h3, h4, h5, h6 {
 .author-note strong {
   color: #005a99; /* make “Author's Note” bold and colored */
 }
+
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --link-color: #007acc;
+  --footnote-bg: #f9f9f9;
+  --author-note-bg: #f0f8ff;
+}
+
+[data-theme="dark"] {
+  --bg-color: #1e1e1e;
+  --text-color: #e0e0e0;
+  --link-color: #4da6ff;
+  --footnote-bg: #2a2a2a;
+  --author-note-bg: #333333;
+}
+
+/* Apply the variables */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+a {
+  color: var(--link-color);
+}
+
+.footnote-popup {
+  background-color: var(--footnote-bg);
+  color: var(--text-color);
+}
+
+.author-note {
+  background-color: var(--author-note-bg);
+  color: var(--text-color);
+  border-left: 4px solid var(--link-color);
+}
