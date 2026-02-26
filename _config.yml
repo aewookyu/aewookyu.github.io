@@ -2,3 +2,5 @@ title: "Aewoo's Translation"
 description: "English translations of Chinese historical fiction."
 theme: minima
 markdown: kramdown
+sass:
+  style: compressed
