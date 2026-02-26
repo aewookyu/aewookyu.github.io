@@ -25,6 +25,8 @@ Disclaimer: Synopsis are from Novel Updates
 
 ## Table of Contents
 
+{{ site.novel-one | size }}
+
 <ul>
 {% assign chapters = site.novel-one | sort: "order" %}
 {% for chapter in chapters %}
