@@ -4,3 +4,8 @@ theme: minima
 markdown: kramdown
 sass:
   style: compressed
+collections:
+  novel_one:
+    output: true
+  novel_two:
+    output: true
