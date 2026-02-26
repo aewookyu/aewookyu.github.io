@@ -1,7 +1,13 @@
 document.addEventListener("DOMContentLoaded", function () {
+  let footnoteCounter = 1;
+
   document.querySelectorAll(".footnote-ref").forEach(ref => {
     const content = ref.getAttribute("data-footnote");
     if (!content) return;
+
+    // Assign auto number
+    ref.innerHTML = `[${footnoteCounter}]`;
+    footnoteCounter++;
 
     const popup = document.createElement("div");
     popup.className = "footnote-popup";
