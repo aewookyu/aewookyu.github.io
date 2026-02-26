@@ -28,3 +28,17 @@ h1, h2, h3, h4, h5, h6 {
   color: #007acc;
   position: relative;
 }
+
+/* Author Note Box */
+.author-note {
+  border-left: 4px solid #007acc; /* colored stripe */
+  background-color: #f0f8ff;      /* light blue background */
+  padding: 12px 16px;
+  margin: 1em 0;
+  border-radius: 6px;
+  font-size: 0.95em;
+}
+
+.author-note strong {
+  color: #005a99; /* make “Author's Note” bold and colored */
+}
