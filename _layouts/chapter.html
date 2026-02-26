@@ -9,6 +9,7 @@ layout: default
 <hr>
 
 {% assign chapters = site.novel-one | sort: "order" %}
+{% assign current_index = nil %}
 
 {% for c in chapters %}
   {% if c.url == page.url %}
@@ -16,17 +17,19 @@ layout: default
   {% endif %}
 {% endfor %}
 
+{% assign last_index = chapters.size | minus: 1 %}
+
 <div class="chapter-nav" style="text-align:center; margin-top:2em; font-size:1.1em;">
 
-  {% if current_index > 0 %}
+  {% if current_index != nil and current_index > 0 %}
     <a href="{{ chapters[current_index | minus: 1].url | relative_url }}">
       ← Previous
     </a>
   {% endif %}
 
-  | <a href="/novel-one/">Table of Contents</a> |
+  | <a href="{{ '/novel-one/' | relative_url }}">Table of Contents</a> |
 
-  {% if current_index < chapters.size | minus: 1 %}
+  {% if current_index != nil and current_index < last_index %}
     <a href="{{ chapters[current_index | plus: 1].url | relative_url }}">
       Next →
     </a>
