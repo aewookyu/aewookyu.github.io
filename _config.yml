@@ -5,7 +5,7 @@ markdown: kramdown
 sass:
   style: compressed
 collections:
-  novel_one:
+  novel-one:
     output: true
-  novel_two:
+  novel-two:
     output: true
