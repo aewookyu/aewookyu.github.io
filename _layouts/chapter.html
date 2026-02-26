@@ -8,19 +8,28 @@ layout: default
 
 <hr>
 
-<div class="chapter-nav" style="text-align:center; margin-top:2em; font-size:1.1em;">
-  {% assign chapters = site.novel-one | sort: "order" %}
-  {% assign index = chapters | index_of: page %}
-  {% assign prev = chapters[index | minus: 1] %}
-  {% assign next = chapters[index | plus: 1] %}
+{% assign chapters = site.novel-one | sort: "order" %}
 
-  {% if prev %}
-    <a href="{{ prev.url | relative_url }}">← Previous</a>
+{% for c in chapters %}
+  {% if c.url == page.url %}
+    {% assign current_index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+<div class="chapter-nav" style="text-align:center; margin-top:2em; font-size:1.1em;">
+
+  {% if current_index > 0 %}
+    <a href="{{ chapters[current_index | minus: 1].url | relative_url }}">
+      ← Previous
+    </a>
   {% endif %}
 
   | <a href="/novel-one/">Table of Contents</a> |
 
-  {% if next %}
-    <a href="{{ next.url | relative_url }}">Next →</a>
+  {% if current_index < chapters.size | minus: 1 %}
+    <a href="{{ chapters[current_index | plus: 1].url | relative_url }}">
+      Next →
+    </a>
   {% endif %}
+
 </div>
