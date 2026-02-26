@@ -18,13 +18,14 @@ Yet, ahw was not able to scheme beyond his ten years' plan of ‘giving a taste 
 The eyes of the fourteen year old Wei Tan, who had arrived at the Imperial Guards, caught sight of Fu Jin. His emotions stirred when they encountered each other in the Southern market. He noticed her eyes would dart t to the right when she was calculating and knew that she had a penchant for haggling prices. He believed the ‘exorbitant price’ he had paid for the plum flower bottle in her hands would certainly attract the beauty’s attention. Little did he expect that she would only remember the hundred and fifty coins. She had paid no attention to the build or stature of the person who had paid.
 
 Ten years later, what was gratifying was that the affairs of the world were ever changing. In the end, after many twists and turns, she actually became his Furen.
+
 Disclaimer: Synopsis are from Novel Updates
 
 ---
 
 ## Table of Contents
 
-- [Chapter 1](./chapter-1)
+- [Chapter 1: Second Marriage](./chapter-1)
 - [Chapter 2](./chapter-2)
 - [Chapter 3](./chapter-3)
 - [Chapter 4](./chapter-4)
@@ -34,3 +35,13 @@ Disclaimer: Synopsis are from Novel Updates
 - [Chapter 8](./chapter-8)
 - [Chapter 9](./chapter-9)
 - [Chapter 10](./chapter-10)
+- [Chapter 11](./chapter-11)
+- [Chapter 12](./chapter-12)
+- [Chapter 13](./chapter-13)
+- [Chapter 14](./chapter-14)
+- [Chapter 15](./chapter-15)
+- [Chapter 16](./chapter-16)
+- [Chapter 17](./chapter-17)
+- [Chapter 18](./chapter-18)
+- [Chapter 19](./chapter-19)
+- [Chapter 20](./chapter-20)
