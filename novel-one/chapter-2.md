@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Chapter 2: Leaving the Camp"
-permalink: /novel-1/chapter-2/
+permalink: /novel-one/chapter-2/
 ---
 
 
