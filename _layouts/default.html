@@ -8,6 +8,11 @@
 
     {%- include header.html -%}
 
+    <!-- Theme Toggle Button -->
+    <button id="theme-toggle" style="position:fixed;top:10px;right:10px;z-index:1000;">
+      Toggle Theme
+    </button>
+
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
@@ -16,7 +21,12 @@
 
     {%- include footer.html -%}
 
+    <!-- Footnotes JS -->
     <script src="{{ '/assets/js/footnotes.js' | relative_url }}"></script>
+
+    <!-- Theme Toggle JS -->
+    <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
+    
   </body>
 
 </html>
