@@ -1,7 +1,5 @@
 <header class="site-header">
   <div class="wrapper">
-    {% for page in site.header_pages %}
-      <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
-    {% endfor %}
+    <a href="{{ '/' | relative_url }}">Home</a>
   </div>
 </header>
