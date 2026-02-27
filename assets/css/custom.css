@@ -51,12 +51,40 @@ h1, h2, h3, h4, h5, h6 {
   --author-note-bg: #f0f8ff;
 }
 
+/* DARK */
 [data-theme="dark"] {
   --bg-color: #1e1e1e;
   --text-color: #e0e0e0;
   --link-color: #4da6ff;
   --footnote-bg: #2a2a2a;
   --author-note-bg: #333333;
+}
+
+/* SEPIA (classic reader mode) */
+[data-theme="sepia"] {
+  --bg-color: #f4ecd8;
+  --text-color: #5b4636;
+  --link-color: #a05a2c;
+  --footnote-bg: #efe4c8;
+  --author-note-bg: #e8dcc2;
+}
+
+/* SOFT NIGHT (blue dark) */
+[data-theme="softnight"] {
+  --bg-color: #1c2331;
+  --text-color: #d8dee9;
+  --link-color: #88c0d0;
+  --footnote-bg: #2a3446;
+  --author-note-bg: #263040;
+}
+
+/* PAPER (soft cream minimal) */
+[data-theme="paper"] {
+  --bg-color: #faf7f2;
+  --text-color: #2b2b2b;
+  --link-color: #3e5c76;
+  --footnote-bg: #f2efe9;
+  --author-note-bg: #ede7dd;
 }
 
 /* Apply the variables */
