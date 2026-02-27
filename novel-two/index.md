@@ -10,3 +10,15 @@ The legitimate eldest grandson of the Grand Duke of Jing, Zhao Huanxi, was born 
 
 ## Table of Contents
 
+{{ site.TDHIDIL | size }}
+
+<ul>
+{% assign chapters = site.TDHIDIL | sort "order" %}
+{% for chapter in chapters %}
+  <li>
+    <a href="{{ chapter.url | realtive_url }}">
+      {{ chapter.title }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
