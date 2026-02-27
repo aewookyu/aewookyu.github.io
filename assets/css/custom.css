@@ -262,3 +262,30 @@ body,
 #heart-btn:hover {
   transform: scale(1.2);
 }
+
+/* header background*/
+.header-background {
+  background-image: url('/assets/images/header-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;  
+
+  padding: 60px 0;
+  text-align: center;
+}
+
+.header-background::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.3);
+}
+
+.header-background .wrapper {
+  position: relative;
+}
+.site-title {
+  font-size: 42px;
+  letter-spacing: 4px;
+}
