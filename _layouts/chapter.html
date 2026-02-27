@@ -20,6 +20,28 @@ layout: default
   </a>
 </p>
 
+<!-- ❤️ HEART BUTTON SECTION -->
+<div class="chapter-hearts" style="text-align:center; margin:20px 0;">
+  <button id="heart-btn">♡</button>
+  <span id="heart-count">0</span>
+</div>
+
+<script>
+const heartBtn = document.getElementById('heart-btn');
+const heartCount = document.getElementById('heart-count');
+const pageKey = '{{ page.url }}_likes';
+
+let count = localStorage.getItem(pageKey) || 0;
+heartCount.textContent = count;
+
+heartBtn.addEventListener('click', () => {
+  count++;
+  localStorage.setItem(pageKey, count);
+  heartCount.textContent = count;
+  heartBtn.textContent = '❤️';
+});
+</script>
+
 <hr>
 
 <div class="chapter-nav" style="text-align:center; margin-top:2em; font-size:1.1em;">
