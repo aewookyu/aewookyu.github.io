@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Daughter-in-law of a Noble House"
+title: "Daughter-in-law of a Noble House (侯门新妇-嫤语书年) by Hai Qing Na Tian Er (海青拿天鹅)"
 permalink: /DILOANH/
 ---
 <img src="{{ '/assets/images/houmenxinfu.jpg' | relative_url }}" class="novel-cover">
