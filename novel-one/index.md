@@ -3,6 +3,7 @@ layout: page
 title: "Daughter-in-law of a Noble House"
 permalink: /DILOANH/
 ---
+<img src="{{ '/assets/images/houmenxinfu.jpg' | relative_url }}" class="novel-cover">
 
 ## Synopsis
 There was chaos throughout all lands under Heavens, while warlords were vying for supremacy.
