@@ -6,6 +6,12 @@ layout: default
   {{ content }}
 </article>
 
+<!-- FONT SIZE BUTTONS -->
+<div class="font-controls">
+  <button id="decrease-font">A−</button>
+  <button id="increase-font">A+</button>
+</div>
+
 <hr>
 <p style="text-align:center; margin-top:20px;">
   Enjoyed the chapter? ☕  
@@ -33,3 +39,6 @@ layout: default
   {% endif %}
 
 </div>
+
+<!-- LOAD FONT SIZE JS ONLY ON CHAPTER PAGES -->
+<script src="{{ '/assets/js/font-size.js' | relative_url }}"></script>
