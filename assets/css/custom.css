@@ -110,3 +110,8 @@ a {
 .chapter-nav a:hover {
   background-color: #ddd;
 }
+
+.kofi-container {
+  margin-top: 40px;
+  text-align: center;
+}
