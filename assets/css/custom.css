@@ -250,3 +250,15 @@ body,
 .font-controls button:hover {
   background-color: var(--nav-hover);
 }
+
+#heart-btn {
+  font-size: 24px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+#heart-btn:hover {
+  transform: scale(1.2);
+}
