@@ -14,7 +14,7 @@ This new daughter-in-law of the noble house receieved the solicitude of the offi
 
 Amidst the chaotic war, she watched the changes in the imperial court and the battle for power. One exquisite heart had set in motion thousands of stratergies and success was but a leap!
 
-Yet, ahw was not able to scheme beyond his ten years' plan of ‘giving a taste of one's medicine’.
+Yet, she was not able to scheme beyond his ten years' plan of ‘giving a taste of one's medicine’.
 
 The eyes of the fourteen year old Wei Tan, who had arrived at the Imperial Guards, caught sight of Fu Jin. His emotions stirred when they encountered each other in the Southern market. He noticed her eyes would dart t to the right when she was calculating and knew that she had a penchant for haggling prices. He believed the ‘exorbitant price’ he had paid for the plum flower bottle in her hands would certainly attract the beauty’s attention. Little did he expect that she would only remember the hundred and fifty coins. She had paid no attention to the build or stature of the person who had paid.
 
@@ -25,9 +25,6 @@ Disclaimer: Synopsis are from Novel Updates
 ---
 
 ## Table of Contents
-
-{{ site.novel-one | size }}
-
 <ul>
 {% assign chapters = site.novel-one | sort: "order" %}
 {% for chapter in chapters %}
