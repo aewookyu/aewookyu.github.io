@@ -307,3 +307,24 @@ body,
     background-attachment: fixed;
   }
 }
+
+.scroll-btn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  border: none;
+  background-color: #333;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: opacity 0.3s ease, transform 0.2s ease;
+  z-index: 1000;
+}
+
+.scroll-btn:hover {
+  transform: scale(1.1);
+}
