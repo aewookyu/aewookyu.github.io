@@ -8,10 +8,17 @@
 
     {%- include header.html -%}
 
-    <!-- Theme Toggle Button -->
-    <button id="theme-toggle" class="theme-btn">
-      Change Theme
-    </button>
+    <!-- Theme Selector Dropdown -->
+    <div class="theme-selector">
+      <label for="theme-select">Theme:</label>
+      <select id="theme-select">
+        <option value="light">Light</option>
+        <option value="dark">Dark</option>
+        <option value="sepia">Sepia</option>
+        <option value="softnight">Soft Night</option>
+        <option value="paper">Paper</option>
+      </select>
+    </div>
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
@@ -24,7 +31,7 @@
     <!-- Footnotes JS -->
     <script src="{{ '/assets/js/footnotes.js' | relative_url }}"></script>
 
-    <!-- Theme Toggle JS -->
+    <!-- Theme Selector JS -->
     <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
     
   </body>
