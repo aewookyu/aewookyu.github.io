@@ -8,8 +8,8 @@ collections:
   novel-one:
     output: true
     sort_by: order
-    permalink: /novel-one/:path/
+    permalink: /DILOANH/:path/
   novel-two:
     output: true
     sort_by: order
-    permalink: /novel-two/:path/
+    permalink: /TDHIDIL/:path/
