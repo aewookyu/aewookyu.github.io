@@ -12,5 +12,34 @@ That means sometimes I’ll keep names, titles, and pronouns in pinyin, or stick
 
 ## Projects
 
-- [Daughter-in-law of a Noble House]({{ '/DILOANH/' | relative_url }})
-- [The Duke House's Ideal Daughter-in-law]({{ '/TDHIDIL/' | relative_url }})
+<div class="project-grid">
+
+  <div class="project-card">
+    <img src="{{ '/assets/images/houmenxinfu.jpg' | relative_url }}" alt="Daughter-in-law of a Noble House Cover">
+
+    <div class="project-content">
+      <h3>Daughter-in-law of a Noble House</h3>
+
+      <span class="status ongoing">Ongoing</span>
+
+      <a href="{{ '/DILOANH/' | relative_url }}" class="read-btn">
+        Read Project →
+      </a>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <img src="{{ '/assets/images/gongfujiaxi.jpg' | relative_url }}" alt="The Duke House's Ideal Daughter-in-law Cover">
+
+    <div class="project-content">
+      <h3>The Duke House's Ideal Daughter-in-law</h3>
+
+      <span class="status ongoing">Ongoing</span>
+
+      <a href="{{ '/TDHIDIL/' | relative_url }}" class="read-btn">
+        Read Project →
+      </a>
+    </div>
+  </div>
+
+</div>
