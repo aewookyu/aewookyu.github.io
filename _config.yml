@@ -9,7 +9,7 @@ collections:
     output: true
     sort_by: order
     permalink: /DILOANH/:path/
-  novel-two:
+  TDHIDIL:
     output: true
     sort_by: order
     permalink: /TDHIDIL/:path/
