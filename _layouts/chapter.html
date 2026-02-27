@@ -11,13 +11,13 @@ layout: default
 <div class="chapter-nav" style="text-align:center; margin-top:2em; font-size:1.1em;">
 
   {% if page.previous %}
-    <a href="{{ page.previous.url | relative_url }}">← Previous</a>
+    <a href="{{ page.previous.url | relative_url }}">← Previous</a> |
   {% endif %}
 
-  | <a href="{{ '/novel-one/' | relative_url }}">Table of Contents</a> |
+    <a href="{{ '/novel-one/' | relative_url }}">Table of Contents</a> 
 
   {% if page.next %}
-    <a href="{{ page.next.url | relative_url }}">Next →</a>
+  | <a href="{{ page.next.url | relative_url }}">Next →</a>
   {% endif %}
 
 </div>
