@@ -56,6 +56,8 @@ h1, h2, h3, h4, h5, h6 {
   --footer-bg: #fafafa;
   --nav-bg: #f0f0f0;
   --nav-hover: #dddddd;
+
+  --card-shadow: 0 8px 25px rgba(0, 0, 0, 0.05);
 }
 
 /* DARK */
@@ -69,6 +71,7 @@ h1, h2, h3, h4, h5, h6 {
   --footer-bg: #161616;
   --nav-bg: #2a2a2a;
   --nav-hover: #3a3a3a;
+  --card-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
 }
 
 /* SEPIA (classic reader mode) */
@@ -95,6 +98,7 @@ h1, h2, h3, h4, h5, h6 {
   --footer-bg: #18202d;
   --nav-bg: #263040;
   --nav-hover: #2f3b52;
+  --card-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
 }
 
 /* PAPER (soft cream minimal) */
@@ -350,16 +354,18 @@ body,
 /* ===== Project Card ===== */
 
 .project-card {
-  background: #ffffff;
+  background: var(--nav-bg);
+  border: 1px solid var(--border-color);
   border-radius: 16px;
   overflow: hidden;
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.05);
+  box-shadow: var(--card-shadow);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-left: 4px solid var(--link-color);  
 }
 
 .project-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.1);
 }
 
 .project-card img {
@@ -372,17 +378,19 @@ body,
 
 .project-content {
   padding: 20px;
+  color: var(--text-color);
 }
 
 .project-content h3 {
   margin-top: 0;
   font-size: 1.2rem;
+  color: var(--text-color);
 }
 
 .project-desc {
   font-size: 0.95rem;
   line-height: 1.5;
-  color: #555;
+  opacity: 0.85;
   margin-bottom: 15px;
 }
 
@@ -394,21 +402,23 @@ body,
   border-radius: 20px;
   font-size: 0.75rem;
   margin-bottom: 15px;
+  border: 1px solid var(--border-color);
 }
 
+/* default status style adapts to theme */
 .status.ongoing {
-  background-color: #e6f4ea;
-  color: #2e7d32;
+  background: var(--author-note-bg);
+  color: var(--text-color);
 }
 
 .status.completed {
-  background-color: #e3f2fd;
-  color: #1565c0;
+  background: var(--footnote-bg);
+  color: var(--text-color);
 }
 
 .status.hiatus {
-  background-color: #fff3e0;
-  color: #ef6c00;
+  background: var(--nav-hover);
+  color: var(--text-color);
 }
 
 /* ===== Read Button ===== */
@@ -419,12 +429,12 @@ body,
   text-decoration: none;
   padding: 8px 14px;
   border-radius: 8px;
-  background-color: #111;
-  color: white;
+  background-color: var(--text-color);
+  color: var(--bg-color);
   font-size: 0.85rem;
-  transition: background 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 .read-btn:hover {
-  background-color: #333;
+  opacity: 0.85;
 }
