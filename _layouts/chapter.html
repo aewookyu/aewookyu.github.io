@@ -29,14 +29,32 @@ layout: default
 <script>
 const heartBtn = document.getElementById('heart-btn');
 const heartCount = document.getElementById('heart-count');
+  
 const pageKey = '{{ page.url }}_likes';
+const likedKey = '{{ page.url }}_liked';
 
+// Get stored values
 let count = localStorage.getItem(pageKey) || 0;
+let liked = localStorage.getItem(likedKey);
+
+// Display current count
 heartCount.textContent = count;
 
+// If already liked, show red heart
+if (liked) {
+  heartBtn.textContent = '❤️';
+}
+
+// Click event
 heartBtn.addEventListener('click', () => {
+
+  // If already liked, do nothing
+  if (localStorage.getItem(likedKey)) return;
+
   count++;
   localStorage.setItem(pageKey, count);
+  localStorage.setItem(likedKey, true);
+
   heartCount.textContent = count;
   heartBtn.textContent = '❤️';
 });
