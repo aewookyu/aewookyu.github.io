@@ -22,7 +22,11 @@ layout: default
     <a href="{{ page.previous.url | relative_url }}">← Previous</a> |
   {% endif %}
 
-    <a href="{{ '/DILOANH/' | relative_url }}">Table of Contents</a> 
+  {% if page.collection == "novel-one" %}
+    <a href="{{ '/DILOANH/' | relative_url }}">Table of Contents</a>
+  {% elsif page.collection == "TDHIDIL" %}
+    <a href="{{ '/TDHIDIL/' | relative_url }}">Table of Contents</a>
+  {% endif %}
 
   {% if page.next %}
   | <a href="{{ page.next.url | relative_url }}">Next →</a>
