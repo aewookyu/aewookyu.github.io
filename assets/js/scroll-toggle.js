@@ -1,11 +1,15 @@
 const scrollBtn = document.getElementById("scroll-toggle");
+const chapter = document.querySelector(".chapter-content");
 
 function updateButton() {
   const scrollPosition = window.scrollY;
-  const pageHeight = document.body.scrollHeight;
   const windowHeight = window.innerHeight;
 
-  if (scrollPosition + windowHeight > pageHeight - 200) {
+  const chapterBottom =
+    chapter.offsetTop + chapter.offsetHeight;
+
+  // If near bottom of chapter → show UP
+  if (scrollPosition + windowHeight > chapterBottom - 100) {
     scrollBtn.textContent = "↑";
     scrollBtn.dataset.direction = "up";
   } else {
@@ -18,7 +22,10 @@ scrollBtn.addEventListener("click", () => {
   if (scrollBtn.dataset.direction === "up") {
     window.scrollTo({ top: 0, behavior: "smooth" });
   } else {
-    window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
+    window.scrollTo({
+      top: chapter.offsetTop + chapter.offsetHeight,
+      behavior: "smooth"
+    });
   }
 });
 
