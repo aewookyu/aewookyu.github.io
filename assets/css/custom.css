@@ -49,6 +49,12 @@ h1, h2, h3, h4, h5, h6 {
   --link-color: #007acc;
   --footnote-bg: #f9f9f9;
   --author-note-bg: #f0f8ff;
+
+    /* NEW */
+  --border-color: #dddddd;
+  --footer-bg: #fafafa;
+  --nav-bg: #f0f0f0;
+  --nav-hover: #dddddd;
 }
 
 /* DARK */
@@ -58,6 +64,10 @@ h1, h2, h3, h4, h5, h6 {
   --link-color: #4da6ff;
   --footnote-bg: #2a2a2a;
   --author-note-bg: #333333;
+  --border-color: #333333;
+  --footer-bg: #161616;
+  --nav-bg: #2a2a2a;
+  --nav-hover: #3a3a3a;
 }
 
 /* SEPIA (classic reader mode) */
@@ -67,6 +77,10 @@ h1, h2, h3, h4, h5, h6 {
   --link-color: #a05a2c;
   --footnote-bg: #efe4c8;
   --author-note-bg: #e8dcc2;
+  --border-color: #d6cbb3;
+  --footer-bg: #efe4c8;
+  --nav-bg: #e8dcc2;
+  --nav-hover: #d6cbb3;
 }
 
 /* SOFT NIGHT (blue dark) */
@@ -76,6 +90,10 @@ h1, h2, h3, h4, h5, h6 {
   --link-color: #88c0d0;
   --footnote-bg: #2a3446;
   --author-note-bg: #263040;
+  --border-color: #2f3b52;
+  --footer-bg: #18202d;
+  --nav-bg: #263040;
+  --nav-hover: #2f3b52;
 }
 
 /* PAPER (soft cream minimal) */
@@ -85,6 +103,10 @@ h1, h2, h3, h4, h5, h6 {
   --link-color: #3e5c76;
   --footnote-bg: #f2efe9;
   --author-note-bg: #ede7dd;
+  --border-color: #e5dfd6;
+  --footer-bg: #f2efe9;
+  --nav-bg: #ede7dd;
+  --nav-hover: #e5dfd6;
 }
 
 .theme-btn {
@@ -124,7 +146,7 @@ a {
 .site-header {
   text-align: center;
   padding: 25px 0;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid var(--border-color);
 }
 
 .site-title {
@@ -139,17 +161,12 @@ a {
 }
 
 .chapter-nav a {
-  display: inline-block;
-  margin: 0 0.8em;
-  padding: 0.3em 0.6em;
-  background-color: #f0f0f0;
-  border-radius: 4px;
-  text-decoration: none;
-  color: #333;
+  background-color: var(--nav-bg);
+  color: var(--text-color);
 }
 
 .chapter-nav a:hover {
-  background-color: #ddd;
+  background-color: var(--nav-hover);
 }
 
 .kofi-container {
@@ -181,10 +198,19 @@ a {
   border-top: 1px solid #eee;
 }
 
-.site-footer a {
-  text-decoration: none;
+.site-footer {
+  background-color: var(--footer-bg);
+  border-top: 1px solid var(--border-color);
 }
 
 .site-footer a:hover {
   text-decoration: underline;
+}
+
+/* smooth transition*/
+body,
+.site-header,
+.site-footer,
+.chapter-nav a {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
 }
