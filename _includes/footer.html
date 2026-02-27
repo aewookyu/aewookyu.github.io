@@ -1,7 +1,39 @@
-<div class="kofi-container">
-  <script src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-  <script>
-    kofiwidget2.init('Support me on Ko-fi ☕', '#29abe0', 'aewookyu');
-    kofiwidget2.draw();
-  </script>
-</div>
+<footer class="site-footer">
+  <div class="wrapper" style="text-align:center; padding:2.5em 1em;">
+
+    <!-- Ko-fi Section -->
+    <p style="font-size:1.1em; margin-bottom:0.6em;">
+      Enjoying the translations? ☕
+    </p>
+
+    <script src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"></script>
+    <script>
+      kofiwidget2.init('Buy me a coffee', '#72a4f2', 'aewookyu');
+      kofiwidget2.draw();
+    </script>
+
+    <hr style="margin:2em auto; width:60%;">
+
+    <!-- Contact Section -->
+    <p style="margin-bottom:0.4em;">
+      Questions, feedback, or spotting a typo?
+    </p>
+    <p style="margin-bottom:1.5em;">
+      Feel free to reach out —
+      <a href="mailto:aewookyu@gmail.com">send me an email</a>.
+    </p>
+
+    <!-- Tiny Personal Line -->
+    <p style="font-style:italic; opacity:0.75; margin-bottom:1.5em;">
+      Made with ☕ and mild sleep deprivation.
+    </p>
+
+    <!-- Copyright + Disclaimer -->
+    <p style="font-size:0.9em; opacity:0.7;">
+      © {{ site.time | date: "%Y" }} {{ site.title }}<br>
+      Unofficial fan translations shared for hobby purposes only.<br>
+      Please support the original authors and publishers.
+    </p>
+
+  </div>
+</footer>
