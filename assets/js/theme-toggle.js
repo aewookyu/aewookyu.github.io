@@ -1,16 +1,19 @@
-document.addEventListener("DOMContentLoaded", function () {
-  const btn = document.getElementById("theme-toggle");
+const themes = ["light", "dark", "sepia", "softnight", "paper"];
+let currentThemeIndex = 0;
 
-  // Load saved theme from localStorage
-  const savedTheme = localStorage.getItem("theme");
-  if (savedTheme) {
-    document.documentElement.setAttribute("data-theme", savedTheme);
-  }
+const savedTheme = localStorage.getItem("theme");
 
-  btn.addEventListener("click", () => {
-    const currentTheme = document.documentElement.getAttribute("data-theme");
-    const newTheme = currentTheme === "dark" ? "light" : "dark";
-    document.documentElement.setAttribute("data-theme", newTheme);
-    localStorage.setItem("theme", newTheme); // remember choice
-  });
+if (savedTheme && themes.includes(savedTheme)) {
+  document.documentElement.setAttribute("data-theme", savedTheme);
+  currentThemeIndex = themes.indexOf(savedTheme);
+} else {
+  document.documentElement.setAttribute("data-theme", "light");
+}
+
+document.getElementById("theme-toggle").addEventListener("click", () => {
+  currentThemeIndex = (currentThemeIndex + 1) % themes.length;
+  const newTheme = themes[currentThemeIndex];
+
+  document.documentElement.setAttribute("data-theme", newTheme);
+  localStorage.setItem("theme", newTheme);
 });
