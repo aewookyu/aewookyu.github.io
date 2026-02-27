@@ -156,3 +156,22 @@ a {
   margin-top: 40px;
   text-align: center;
 }
+
+.theme-selector {
+  position: fixed;
+  top: 15px;
+  right: 20px;
+  font-size: 0.9rem;
+}
+
+.theme-selector label {
+  margin-right: 5px;
+}
+
+.theme-selector select {
+  padding: 4px 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
