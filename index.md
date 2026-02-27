@@ -12,5 +12,5 @@ That means sometimes I’ll keep names, titles, and pronouns in pinyin, or stick
 
 ## Projects
 
-- [Daughter-in-law of a Noble House](./novel-one/)
-- [The Duke House's Ideal Daughter-in-law](./novel-two/)
+- [Daughter-in-law of a Noble House](./DILOANH/)
+- [The Duke House's Ideal Daughter-in-law](./TDHIDIL/)
