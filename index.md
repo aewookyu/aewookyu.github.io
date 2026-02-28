@@ -23,7 +23,7 @@ That means sometimes I’ll keep names, titles, and pronouns in pinyin, or stick
       <span class="status ongoing">Ongoing</span>
 
       <a href="{{ '/DILOANH/' | relative_url }}" class="read-btn">
-        Read Project →
+        Read Here →
       </a>
     </div>
   </div>
@@ -37,7 +37,7 @@ That means sometimes I’ll keep names, titles, and pronouns in pinyin, or stick
       <span class="status ongoing">Ongoing</span>
 
       <a href="{{ '/TDHIDIL/' | relative_url }}" class="read-btn">
-        Read Project →
+        Read Here →
       </a>
     </div>
   </div>
