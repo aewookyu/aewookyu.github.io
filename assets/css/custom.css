@@ -441,7 +441,10 @@ body,
 
 /* ===== Read Button ===== */
 
-.read-btn {
+.read-btn,
+.read-btn:visited,
+.read-btn:hover,
+.read-btn:active {
   display: inline-block;
   margin-top: 5px;
   text-decoration: none;
