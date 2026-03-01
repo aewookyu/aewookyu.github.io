@@ -20,11 +20,7 @@ layout: default
     <a href="{{ page.previous.url | relative_url }}">←</a>
   {% endif %}
 
-  {% if page.collection == "novel-one" %}
-    <a href="{{ '/DILOANH/' | relative_url }}">TOC</a>
-  {% elsif page.collection == "TDHIDIL" %}
-    <a href="{{ '/TDHIDIL/' | relative_url }}">TOC</a>
-  {% endif %}
+  <a href="{{ page.toc_url | relative_url }}">TOC</a>
 
   {% if page.next %}
     <a href="{{ page.next.url | relative_url }}">→</a>
@@ -98,11 +94,7 @@ heartBtn.addEventListener('click', () => {
     <a href="{{ page.previous.url | relative_url }}">← Previous</a> |
   {% endif %}
 
-  {% if page.collection == "novel-one" %}
-    <a href="{{ '/DILOANH/' | relative_url }}">Table of Contents</a>
-  {% elsif page.collection == "TDHIDIL" %}
-    <a href="{{ '/TDHIDIL/' | relative_url }}">Table of Contents</a>
-  {% endif %}
+  <a href="{{ page.toc_url | relative_url }}">TOC</a>
 
   {% if page.next %}
   | <a href="{{ page.next.url | relative_url }}">Next →</a>
