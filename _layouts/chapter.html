@@ -6,6 +6,25 @@ layout: default
   <h1>{{ page.title }}</h1>
 </header>
 
+<!-- 🔼 TOP CHAPTER NAVIGATION -->
+<div class="chapter-nav-top">
+
+  {% if page.previous %}
+    <a href="{{ page.previous.url | relative_url }}">←</a>
+  {% endif %}
+
+  {% if page.collection == "novel-one" %}
+    <a href="{{ '/DILOANH/' | relative_url }}">TOC</a>
+  {% elsif page.collection == "TDHIDIL" %}
+    <a href="{{ '/TDHIDIL/' | relative_url }}">TOC</a>
+  {% endif %}
+
+  {% if page.next %}
+    <a href="{{ page.next.url | relative_url }}">→</a>
+  {% endif %}
+
+</div>
+
 <article class="chapter-content">
   {{ content }}
 </article>
@@ -20,7 +39,7 @@ layout: default
 <p style="text-align:center; margin-top:20px;">
   Enjoyed the chapter? ☕  
   <a href="https://ko-fi.com/aewookyu" target="_blank">
-    Support me on Ko-fi
+    Buy me a coffee
   </a>
 </p>
 
