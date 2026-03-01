@@ -58,6 +58,8 @@ h1, h2, h3, h4, h5, h6 {
   --nav-hover: #dddddd;
 
   --card-shadow: 0 8px 25px rgba(0, 0, 0, 0.05);
+
+  --link-visited: #005fa3; /* slightly darker than default blue */
 }
 
 /* DARK */
@@ -72,6 +74,7 @@ h1, h2, h3, h4, h5, h6 {
   --nav-bg: #2a2a2a;
   --nav-hover: #3a3a3a;
   --card-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+  --link-visited: #3d8ed6;  
 }
 
 /* SEPIA (classic reader mode) */
@@ -85,6 +88,7 @@ h1, h2, h3, h4, h5, h6 {
   --footer-bg: #efe4c8;
   --nav-bg: #e8dcc2;
   --nav-hover: #d6cbb3;
+  --link-visited: #8a4d22;  
 }
 
 /* SOFT NIGHT (blue dark) */
@@ -99,6 +103,7 @@ h1, h2, h3, h4, h5, h6 {
   --nav-bg: #263040;
   --nav-hover: #2f3b52;
   --card-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+  --link-visited: #6fb3c7;  
 }
 
 /* PAPER (soft cream minimal) */
@@ -112,6 +117,7 @@ h1, h2, h3, h4, h5, h6 {
   --footer-bg: #f2efe9;
   --nav-bg: #ede7dd;
   --nav-hover: #e5dfd6;
+  --link-visited: #2c4a63;  
 }
 
 .theme-btn {
@@ -135,6 +141,18 @@ body {
 
 a {
   color: var(--link-color);
+}
+
+a:visited {
+  color: var(--link-visited);
+}
+
+a:hover {
+  opacity: 0.85;
+}
+
+a:active {
+  opacity: 0.7;
 }
 
 .footnote-popup {
