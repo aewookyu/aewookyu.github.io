@@ -29,8 +29,6 @@ Others might have thought that Xu Nian'an had stumbled into good luck by marryin
 
 ## Table of Contents
 
-{{ site.TDHIDIL | size }}
-
 <ul>
 {% assign chapters = site.TDHIDIL | sort: "order" %}
 {% for chapter in chapters %}
