@@ -3,7 +3,14 @@ layout: default
 ---
 
 <header class="chapter-header">
-  <h1>{{ page.title }}</h1>
+  {% if page.novel_title %}
+    <h2 class="novel-title">
+      <a href="{{ page.toc_url | relative_url }}">
+        {{ page.novel_title }}
+      </a>
+    </h2>
+  {% endif %}
+  <h1 class="chapter-title">{{ page.title }}</h1>
 </header>
 
 <!-- 🔼 TOP CHAPTER NAVIGATION -->
