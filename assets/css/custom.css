@@ -514,3 +514,7 @@ body,
   opacity: 1;
 }
 
+/*insert indetation in each paragraph*/
+.chapter-content p {
+  text-indent: 2em;
+}
