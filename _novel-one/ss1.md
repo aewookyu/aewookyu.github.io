@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: "Side story 1: Empress Xu"
+title: "Side Story 1: Empress Xu"
 order: 128
 novel_title: Daughter-in-law of a Noble House
 toc_url: /DILOANH/
@@ -446,7 +446,7 @@ I heard about the annihilation of the Fu Family while I was still learning court
 In such a glorious and revered family, with just one burst of imperial anger, it was uprooted overnight. Including Fu **Situ** and the handsome Fu Yun, the entire Fu Family was listed for execution. However, Fu Jin, who enjoyed selling goods in the market, was spared by Empress Dowager Liu. I heard that to keep her, Empress Dowager Liu declared she would disown her own son. The Emperor, unable to resist, had no choice but to acquiesce.
 
 As an outsider hearing this news, I couldn't help but feel a sense of shock and dread. Yet, on the other hand, there was a small sense of relief. This matter, rather than saying that Emperor's dissatisfaction with the Fu Family, it was more accurate to say that it was a victory for Empress Bian. The Fu Family supported Prince Chen, the eldest son of the Emperor, while Empress Bian naturally desired her own son, Prince Zhen, to ascend the throne. Now that the Fu Family had fallen, the position of Prince Zhen seemed secure.
-　　
+<br>
 I have met both of these princes before. Prince Chen is refined, reserved in speech; while Prince Zhen is more lively, enjoying social gatherings. To be fair, Prince Chen carries himself with the demeanor of a future ruler, but ultimately, circumstances outweigh individual qualities. After the Fu Family was exterminated, Empress Dowager Liu, fearing harm from Empress Bian to Prince Chen, brought him into the Empress Dowager's palace. Unfortunately, within a year, Empress Dowager Liu passed away. Fu Jin was married off to distant Laiyang, and Prince Chen was conferred the title of Prince of Jinan (Jinan Wang).
 
 The struggle for the imperial throne, a recurring theme in every dynasty, was considered commonplace by the people. However, no one could have anticipated how swiftly the situation would change. Following the passing of Empress Dowager Liu, the Emperor quickly succumbed, and the Bian clan sought to enthrone Prince Zhen. Simultaneously, the elder brother of the late Empress (Prince Chen’s mother), Gao Mi, rebelled. Chang'an descended into chaos overnight, and I found myself trapped in the palace, living in constant fear. Empress Bian was poisoned by Gao Mi, and subsequently, the Governor of Liangzhou, He Kui, led his troops into Chang'an to quell the turmoil, killing Gao Mi. People thought the matter would end there, but He Kui, too, proved to be no benevolent figure either.
@@ -546,8 +546,8 @@ His words caused my heart to plummet, and I stood there in a daze, feeling a chi
 
 He looked at me and sighed, "I've thought about it a lot later on. You were right; we were wrong from the very beginning."
 
-
 <br>
+
 Wrong, were we?
 
 I stood on the crimson steps, gazing at Wei Tan. Behind him, Fu Jin stood at the forefront of the women, adorned in elegant attire.
@@ -629,7 +629,7 @@ This is probably what it feels like to be a mother. I believe it's a small rewar
 The Emperor also dotes on this son. He visits every day and often stays in the palace, not leaving.
 
 Perhaps because of Li, or perhaps because we are both in the midst of adversity, there is a strange closeness that has developed between the Emperor and me.
-　　
+
 I've noticed that he isn't as reserved as before. When he encounters interesting things, he doesn't let the adversities prevent him from laughing openly.
 
 He is a thoughtful and caring father, personally teaching Li to speak and walk. Sometimes, we dismiss attendants and play with Li together—talking and laughing. Every moment is unexpectedly filled with joy.
@@ -641,8 +641,8 @@ fun fact: the name 励 (lì) means to encourage; to motivate; to cheer up
 Watching my husband and child, I suddenly had some aspirations. I thought, if things could continue like this, even if I were an ordinary commoner, what would it matter?
 
 Perhaps it's because I have nothing more to lose. After having this thought, I suddenly became exceptionally persistent.
-
 <br>
+
 The Emperor carries the heavy burden of being an emperor. Over the years, the weight has accumulated, and he can no longer bear it.
 
 "Go," he said to me as he left with Wei Tan and Fu Jin's daughter in his arms. "**Guo Zhang**<sup class="footnote-ref" data-footnote="emperor’s father-in-law; Empress Xu’s father"></sup> is waiting outside Rongan Gate. If a fire breaks out in the palace, the Yulin Guard will surely come. Take this opportunity to leave with Li."
