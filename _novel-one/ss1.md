@@ -252,7 +252,7 @@ Wei Tan was sometimes hard to read, but he had never lied to me.
 
 I regained my composure and said, "There is something. Can you take leave the day after tomorrow? **Guo Jiu**<sup class="footnote-ref" data-footnote="国舅-Emperor’s brother-in-law"></sup> is hosting a gathering in his residence, and **Bian Nujun** invited me. She suggested that I bring you along."
 
-"**Guo Jiu&&?" Wei Tan seemed a bit hesitant.
+"**Guo Jiu**?" Wei Tan seemed a bit hesitant.
 
 "Exactly." I hurriedly said, "There will be many talented individuals at the banquet. If you go, you can make new friends, and it won't be boring either."
 
@@ -458,14 +458,14 @@ The realm has fallen into great chaos, with warlords vying for control, and even
 In just a short span of two years, the once prosperous and flourishing era has vanished like smoke and clouds. In Fenyang, I heard that Prince Chen ascended to the throne, but both Chang'an and Luoyang have suffered destruction in the ravages of war. Occasionally, I catch glimpses of news about familiar faces. Some have perished in the chaos of war, others lead a tumultuous life alongside the Emperor, a few have joined various warlords, and some have become warlords themselves.
 
 One day, Father returned from outside and informed us of a significant event. Wei Jue had pacified Liangzhou, Hetao, and Shanxi, escorting the Emperor to Yongzhou. Before long, they would arrive in Fenyang.
-　　
+
 This is indeed a significant matter. Upon hearing it, Mother and I were left speechless for a long time.
 
 When Wei Jue met Father, it seemed as if there were no grievances between them. They exchanged warm greetings, resembling old friends who had been apart for many years. Wei Jue informed Father that the Emperor was planning to establish the capital in Yongzhou and was gathering former officials, expressing the hope that Father would return to the court.
 
 After much contemplation, Father agreed.
-
 <br>
+
 The next time I saw Wei Tan was in Yongzhou.
 
 He rode on horseback, leading soldiers as they dashed through the streets. People called him **Da Gongzi**. I stood on the side of the street, gazing at him from a distance. His figure had grown taller compared to several years ago, no longer the young Yulin Guard with a hint of youthful innocence.
