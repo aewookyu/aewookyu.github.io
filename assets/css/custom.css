@@ -527,6 +527,11 @@ body,
   background: var(--author-note-bg);
   box-shadow: var(--card-shadow);
   border-radius: 6px;
+  color: var(--text-color);
+}
+
+.aewoo-ramble a {
+  color: var(--link-color);
 }
 
 .ramble-title {
@@ -535,4 +540,8 @@ body,
   font-size: 1.1em;
   color: var(--link-color);
   margin-bottom: 18px;
+}
+
+.ramble-title a {
+  color: var(--link-color);
 }
