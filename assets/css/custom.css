@@ -521,17 +521,18 @@ body,
 
 .aewoo-ramble {
   margin-top: 60px;
-  padding: 20px 10px;
-  border-top: 2px solid #d4af37;
-  border-bottom: 2px solid #d4af37;
-  background: #fafafa;
-  text-indent: 1.5em;
+  padding: 20px 15px;
+  border-top: 2px solid var(--border-color);
+  border-bottom: 2px solid var(--border-color);
+  background: var(--author-note-bg);
+  box-shadow: var(--card-shadow);
+  border-radius: 6px;
 }
 
 .ramble-title {
   text-align: center;
   letter-spacing: 2px;
   font-size: 1.1em;
-  color: #8c6b2f;
+  color: var(--link-color);
   margin-bottom: 18px;
 }
