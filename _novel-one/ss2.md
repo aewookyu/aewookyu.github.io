@@ -675,7 +675,6 @@ Outside the gate city of Huaiyang, Pei Qian glanced at Fu jin's carriage and the
 
 <p style="text-align:center;">THE END</p>
 
-<hr>
 <div class="aewoo-ramble">
   <div class="ramble-title">⟡ Aewoo’s Ramble ⟡</div>
   <p>This time we get the story from Wei Tan’s POV, and it truly feels like everything has come full circle.</p>
