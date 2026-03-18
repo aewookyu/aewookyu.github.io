@@ -675,9 +675,20 @@ Outside the gate city of Huaiyang, Pei Qian glanced at Fu jin's carriage and the
 
 <p style="text-align:center;">THE END</p>
 <hr>
-### Aewoo's Ramble ✨️
+<div class="aewoo-ramble">
 
+<div class="ramble-title">⟡ Aewoo’s Ramble ⟡</div>
+
+<p>
 This time we get the story from Wei Tan’s POV, and it truly feels like everything has come full circle.
-I find it incredibly sweet that even after ascending the throne, Wei Tan still calls Fu Jin “Furen” 🥹.
+</p>
 
+<p>
+I find it incredibly sweet that even after ascending the throne, Wei Tan still calls Fu Jin “Furen” 🥹.
+</p>
+
+<p>
 Thank you so much for staying with my translation until the very end~
+</p>
+
+</div>
