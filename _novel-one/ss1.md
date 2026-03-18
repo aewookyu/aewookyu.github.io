@@ -715,3 +715,4 @@ Looking into his eyes, after a while, I too revealed a smile and said, "Yes, Fuj
   <p>No matter how many times I read this chapter, it always brings tears to my eyes. I’m truly glad the author give Empress Xu and the Emperor a happy ending 🥹🫶🏻.</p>
 </div>
 
+<br><br>
