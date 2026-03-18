@@ -518,3 +518,20 @@ body,
 .chapter-content p {
   text-indent: 2em;
 }
+
+.aewoo-ramble {
+  margin-top: 60px;
+  padding: 20px 10px;
+  border-top: 2px solid #d4af37;
+  border-bottom: 2px solid #d4af37;
+  background: #fafafa;
+  text-indent: 1.5em;
+}
+
+.ramble-title {
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 1.1em;
+  color: #8c6b2f;
+  margin-bottom: 18px;
+}
