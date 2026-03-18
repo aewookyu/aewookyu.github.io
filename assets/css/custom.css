@@ -563,15 +563,17 @@ body,
 
 .chapter-snippet{
     max-width: 720px;
-    margin: 18px auto 12px auto;
-    padding: 14px 18px;
+    margin: 22px auto;
+    padding: 12px 20px;
 
     background: var(--snippet-bg);
-    border-left: 4px solid var(--snippet-border);
-
     color: var(--snippet-text);
+
     font-style: italic;
     line-height: 1.7;
+    text-align: center;
 
-    border-radius: 6px;
+    border-top: 1px solid var(--snippet-border);
+    border-bottom: 1px solid var(--snippet-border);
 }
+
