@@ -710,7 +710,8 @@ He uses 我 (wǒ), the normal 'I', dropping the formal 朕 (zhèn).
 
 Looking into his eyes, after a while, I too revealed a smile and said, "Yes, Fujun."
 
-<hr>
-### Aewoo's Ramble ✨️
+<div class="aewoo-ramble">
+  <div class="ramble-title">⟡ Aewoo’s Ramble ⟡</div>
+  <p>No matter how many times I read this chapter, it always brings tears to my eyes. I’m truly glad the author give Empress Xu and the Emperor a happy ending 🥹🫶🏻.</p>
+</div>
 
-No matter how many times I read this chapter, it always brings tears to my eyes. I’m truly glad the author chose to give Empress Xu and the Emperor a happy ending 🥹🫶🏻.
