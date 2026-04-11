@@ -615,7 +615,7 @@ As expected, the Emperor chuckled, took the book from her hand, and said, "There
 
 Fu Jin felt he made a valid point and was about to nod when she sensed something amiss.
 
-"**Qie&* received education from a young age, and Biographies of Exemplary Women and Lessons for Women are must-reads," she corrected.
+"**Qie** received education from a young age, and Biographies of Exemplary Women and Lessons for Women are must-reads," she corrected.
 
 The Emperor pretended not to hear and held her close, saying, "There's something that you have to be told to."
 
