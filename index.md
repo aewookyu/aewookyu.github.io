@@ -34,7 +34,7 @@ That means sometimes I’ll keep names, titles, and pronouns in pinyin, or stick
     <div class="project-content">
       <h3>The Duke House's Ideal Daughter-in-law</h3>
 
-      <span class="status ongoing">Ongoing</span>
+      <span class="status completed">Completed</span>
 
       <a href="{{ '/TDHIDIL/' | relative_url }}" class="read-btn">
         Read Here →
