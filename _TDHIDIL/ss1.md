@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "Side Story 1"
-snippet: "A Day in the Life of the County Magistrate (Little Puppy, Dong Jiejie, and Chun Jie’er."
+snippet: "A Day in the Life of the County Magistrate (Little Puppy, Dong Jiejie, and Chun Jie’er)."
 order: 166
 novel_title: The Duke House's Ideal Daughter-in-law
 toc_url: /TDHIDIL/
