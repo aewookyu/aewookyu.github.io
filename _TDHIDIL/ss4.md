@@ -331,7 +331,7 @@ Catching up to her from behind, Zhao Huanxi scooped her up in his arms. Just as 
 
 <br>
 
-Under the same fireworks, Liu Fuyi—now an Noble Consort<sup class="footnote-ref" data-footnote="贵妃(Guifei)-rank in the harem higher than a Consort, usually the highest of all (only second to the Empress"></sup>—stood beneath the eaves of her palace chambers, tilting her slender neck as she gazed at the night sky. The vibrant colors of the fireworks reflected in her bright, crystal-clear eyes.
+Under the same fireworks, Liu Fuyi—now an Noble Consort<sup class="footnote-ref" data-footnote="贵妃(Guifei)-rank in the harem higher than a Consort, usually the highest of all (only second to the Empress)"></sup>—stood beneath the eaves of her palace chambers, tilting her slender neck as she gazed at the night sky. The vibrant colors of the fireworks reflected in her bright, crystal-clear eyes.
 
 The Emperor stood beside her, holding her hand.
 
