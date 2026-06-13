@@ -285,7 +285,7 @@ Xiang Zhong shook his head. “Not yet. But there is news of the two brothers, H
 
 Xiang Zhong acknowledged the order.
 
-**Guogong Ye?é** sighed, looking back out the window. “Back then, I was too impulsive, too harshly. I should have left him a way out. Now, at his age, wandering alone in the world… I don’t even know if he is alive or dead.”
+**Guogong Yé** sighed, looking back out the window. “Back then, I was too impulsive, too harshly. I should have left him a way out. Now, at his age, wandering alone in the world… I don’t even know if he is alive or dead.”
 
 Xiang Zhong sighed as well. “Who would have thought that after all these years, **Da Laoyé** has never once come back to seek forgiveness?”
 
