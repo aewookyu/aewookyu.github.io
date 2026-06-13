@@ -257,7 +257,7 @@ Hui **Ge’er** lowered his head and rubbed his toe against the ground. “I hea
 
 Hui **Ge’er** thought carefully for a moment, then slowly shook his head.
 
-*&Guogong Yé** reached out and pulled him close. “I understand what’s in your heart. When children are young, they always dream that their father is a great hero. Well, let me tell you, your father is a great hero.
+**Guogong Yé** reached out and pulled him close. “I understand what’s in your heart. When children are young, they always dream that their father is a great hero. Well, let me tell you, your father is a great hero.
 
 "He went to war at eighteen and personally killed the Tiele King. The peace in Liaodong today would not have been possible without him. If you don’t believe me, next time your father takes a bath, sneak a look, you’ll see the scars from the battlefield still on his body.”
 
