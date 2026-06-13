@@ -198,9 +198,9 @@ Zhao Huanxu left Zhao Huanxi's study and walked toward the backyard, where he ha
 Yu Jie’er is Zhao Huanxu’s daughter.
 </div>
 
-“Yu **Jie’er*&, where’s your mother?” he asked.  
+“Yu **Jie’er**, where’s your mother?” he asked.  
 
-Yu &*Jie’er** pointed toward the direction of Jiaxiang House. “Mother’s in Chun **Jie’er**’s **Zumu** courtyard.”
+Yu **Jie’er** pointed toward the direction of Jiaxiang House. “Mother’s in Chun **Jie’er**’s **Zumu** courtyard.”
 
 Zhao Huanxu nodded. “Go tell your mother that we won’t be eating at home for lunch. We’re going to Changfeng Lou to have Dongpo pork.”
 
