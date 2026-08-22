@@ -4,7 +4,7 @@ permalink: /POJ/
 ---
 <div class="novel-title">
   <h1>Pursuit of Jade</h1>
-  <p class="chinese-title">逐玉</p>
+  <p class="chinese-title">Zhú Yù (逐玉)</p>
   <p class="novel-author"><em>Tuanzi Laixi (团子来袭)</em></p>
 </div>
 
