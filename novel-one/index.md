@@ -12,7 +12,6 @@ permalink: /DILOANH/
 <img src="{{ '/assets/images/houmenxinfu.jpg' | relative_url }}" class="novel-cover">
 
 ## Synopsis
-## Synopsis
 
 There was chaos throughout all under Heaven, while warlords vied for supremacy.
 
