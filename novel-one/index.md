@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Daughter-in-law of a Noble House"
 permalink: /DILOANH/
 ---
 <div class="novel-title">
