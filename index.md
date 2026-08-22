@@ -42,4 +42,19 @@ That means sometimes I’ll keep names, titles, and pronouns in pinyin, or stick
     </div>
   </div>
 
+
+  <div class="project-card">
+    <img src="{{ '/assets/images/zhuyu.jpg' | relative_url }}" alt="Pursuit of Jade">
+
+    <div class="project-content">
+      <h3>Pursuit of Jade</h3>
+
+      <span class="status ongoing">Ongoing</span>
+
+      <a href="{{ '/POJ/' | relative_url }}" class="read-btn">
+        Read Here →
+      </a>
+    </div>
+  </div>
+
 </div>
