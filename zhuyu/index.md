@@ -8,6 +8,7 @@ permalink: /POJ/
   <p class="novel-author"><em>Tuanzi Laixi (团子来袭)</em></p>
 </div>
 
+<img src="{{ '/assets/images/zhuyu.jpg' | relative_url }}" class="novel-cover">
 
 ## Synopsis
 
