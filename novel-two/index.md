@@ -4,7 +4,7 @@ permalink: /TDHIDIL/
 ---
 <div class="novel-title">
   <h1>The Duke House's Ideal Daughter-in-law</h1>
-  <p class="chinese-title">公府佳媳</p>
+  <p class="chinese-title">Gōng Fǔ Jiā Xí (公府佳媳)</p>
   <p class="novel-author"><em>Jiāngnán Méi è (江南梅萼)</em></p>
 </div>
 
