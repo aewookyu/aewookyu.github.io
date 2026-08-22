@@ -10,7 +10,6 @@ permalink: /DILOANH/
 </div>
 
 <img src="{{ '/assets/images/houmenxinfu.jpg' | relative_url }}" class="novel-cover">
-<img src="{{ '/assets/images/houmenxinfu.jpg' | relative_url }}" class="novel-cover">
 
 ## Synopsis
 ## Synopsis
