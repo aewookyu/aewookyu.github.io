@@ -13,7 +13,7 @@ collections:
     output: true
     sort_by: order
     permalink: /TDHIDIL/:path/
-  POJ:
+  zhuyu:
     output: true
     sort_by: order
     permalink: /POJ/:path/
