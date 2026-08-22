@@ -1,8 +1,14 @@
 ---
 layout: page
-title: "The Duke House's Ideal Daughter-in-law (公府佳媳) by Jiāngnán Méi è (江南梅萼)"
+title: "The Duke House's Ideal Daughter-in-law"
 permalink: /TDHIDIL/
 ---
+<div class="novel-title">
+  <h1>The Duke House's Ideal Daughter-in-law</h1>
+  <p class="chinese-title">公府佳媳</p>
+  <p class="novel-author"><em>Jiāngnán Méi è (江南梅萼)</em></p>
+</div>
+
 <img src="{{ '/assets/images/gongfujiaxi.jpg' | relative_url }}" class="novel-cover">
 
 ## Synopsis
