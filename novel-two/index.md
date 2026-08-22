@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "The Duke House's Ideal Daughter-in-law"
 permalink: /TDHIDIL/
 ---
 <div class="novel-title">
