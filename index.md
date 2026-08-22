@@ -42,7 +42,7 @@ That means sometimes I’ll keep names, titles, and pronouns in pinyin, or stick
     </div>
   </div>
 
-
+<!--
   <div class="project-card">
     <img src="{{ '/assets/images/zhuyu.jpg' | relative_url }}" alt="Pursuit of Jade">
 
@@ -56,5 +56,6 @@ That means sometimes I’ll keep names, titles, and pronouns in pinyin, or stick
       </a>
     </div>
   </div>
+-->
 
 </div>
