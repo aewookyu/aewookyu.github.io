@@ -22,7 +22,7 @@ Once the family business was secure, Fan Changyu prepared to write the divorce a
 
 When she saw him again, he was lying in the wounded soldiers' tent, drenched in blood. His blood-stained face remained as handsome as ever, but his private's uniform was hacked to ribbons.
 
-Seeing how brutally he was struggling in the army, Fan Changyu’s eyes welled with tears: "Stop serving in the military. Come home with me—I'll butcher pigs to support you."
+Seeing how brutally he was struggling in the army, Fan Changyu’s eyes welled with tears: "Stop serving in the military. Come home with me, I'll butcher pigs to support you."
 
 The man half-lidded his eyes and coughed up a mouthful of blood: "You wanted to divorce me..."
 
