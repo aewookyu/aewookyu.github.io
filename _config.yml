@@ -13,3 +13,7 @@ collections:
     output: true
     sort_by: order
     permalink: /TDHIDIL/:path/
+  POJ:
+    output: true
+    sort_by: order
+    permalink: /POJ/:path/
