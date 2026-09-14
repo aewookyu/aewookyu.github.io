@@ -340,7 +340,7 @@ An hour and a half earlier, the fireworks at Jing Guogong Residence had caught h
 "**Fu Huang**, **Mu Fei**," the Thirteenth Prince mumbled sleepily as he rubbed his eyes and walked over to them, woken by the sound of fireworks.  
 <div class="author-note">
 父皇 (Fuhuang): "Imperial Father", is used by a prince or princess to address their father the emperor.
-母妃 (Mǔ Fēi): This means "Imperial Mother (Fei=Consort)" and is used by a prince or princess to address their birth mother if she holds a consort title (such as 贵妃(Guifeu), 妃(Fei), or 嫔(pin)). It distinguishes her from the 皇后 (Empress, "Mother Empress"), who is the emperor’s principal wife and the official mother of all imperial children, regardless of birth mother. The children will call the Empress 母后 (Mu Hou) instead.
+母妃 (Mǔ Fēi): This means "Imperial Mother (Fei=Consort)" and is used by a prince or princess to address their birth mother if she holds a consort title (such as 贵妃(Guifei), 妃(Fei), or 嫔(pin)). It distinguishes her from the 皇后 (Empress, "Mother Empress"), who is the emperor’s principal wife and the official mother of all imperial children, regardless of birth mother. The children will call the Empress 母后 (Mu Hou) instead.
 </div>
 
 "Yi'er, come, watch the fireworks with us," the Emperor said, bending down to lift his son into his arms.
