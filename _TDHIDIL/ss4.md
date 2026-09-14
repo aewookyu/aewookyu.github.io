@@ -369,4 +369,5 @@ Even her own father had never given her such treatment.
 
 Since things are like this, then let's just let it be.
 
+<br><br>
 <p style="text-align:center;">THE END</p>
