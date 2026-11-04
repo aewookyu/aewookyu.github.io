@@ -196,7 +196,7 @@ The buyer's eyes showed uncertainty.
 
 "This is an old item!"
 
-"Ah, don’t **Gongtai** know that an old chessboard is even more valuable? I initially thought of selling it for seven hundred coins. Since **Gongtai&* is interested, I'm making a special offer. If it seems expensive to **Gongtai**, you can always..."
+"Ah, don’t **Gongtai** know that an old chessboard is even more valuable? I initially thought of selling it for seven hundred coins. Since **Gongtai** is interested, I'm making a special offer. If it seems expensive to **Gongtai**, you can always..."
 
 I feel that the vendor has delicate features, like that of a young girl. Very familiar, yet I can't recall where I've seen them before. Before long, his face turned slightly in my direction, and my heart felt as if struck by lightning.
 
