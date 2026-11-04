@@ -250,7 +250,7 @@ Wei Tan was sometimes hard to read, but he had never lied to me.
 
 "Why are you looking for me?" This time, Wei Tan asked me.
 
-I regained my composure and said, "There is something. Can you take leave the day after tomorrow? **Guo Jiu**<sup class="footnote-ref" data-footnote="国舅-Emperor’s brother-in-law"></sup> is hosting a gathering in his residence, and **Bian Nujun** invited me. She suggested that I bring you along."
+I regained my composure and said, "There is something. Can you take leave the day after tomorrow? **Guo Jiu**<sup class="footnote-ref" data-footnote="国舅 - Emperor’s brother-in-law"></sup> is hosting a gathering in his residence, and Bian **Nujun** invited me. She suggested that I bring you along."
 
 "**Guo Jiu**?" Wei Tan seemed a bit hesitant.
 
@@ -273,7 +273,7 @@ I get along well with Bian Heng's daughter, Bian Ying. A few days ago, I asked h
 On the appointed day, I arrived at **Guo Jiu**'s mansion first. Bian Ying led me and several noble ladies to a small pavilion in the garden to enjoy refreshments. The exquisite doors were wide open, offering a view of a delicate rockery. Beyond it, there was a pavilion surrounded by water, where guests were seated at elegant tables, chatting and laughing. At the top, Bian **Guo Jiu**, dressed in a brocade robe, was engaged in conversation with a handsome young man.
 
 "Who is that? He wears more rouge than a woman," a noble lady, using a silk fan to partially cover her face, remarked with a light laugh.
-　　
+
 "That is the newly appointed Secretary of the Bureau of Ceremonies," Ban Ying said, "just promoted from the position of an Assistant Secretary."
 
 The noble ladies understood. In the courtyard, the lanterns illuminated the surroundings as if it were daytime. The guests arrived one after another, all of them young men with diverse appearances, yet all pleasing to the eye. In my heart, I admired the discerning eye of Bian **Guo Jiu** in selecting guests. Before long, a familiar figure appeared in the courtyard.
